@@ -1,4 +1,4 @@
 # apnacollege-demo
 demo 
 <br>
-Author - Suryansh Malik
+Author - Suryansh (Malik)
